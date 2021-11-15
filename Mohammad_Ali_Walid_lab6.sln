@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mohammad_Ali_Walid_lab6", "Mohammad_Ali_Walid_lab6.csproj", "{A17BEF87-FE89-443F-9D4D-6240ADB0A502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGeistModel", "..\AutoGeistModel\AutoGeistModel.csproj", "{54F290CB-0287-4CA1-82FC-6A9820086EAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17BEF87-FE89-443F-9D4D-6240ADB0A502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17BEF87-FE89-443F-9D4D-6240ADB0A502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17BEF87-FE89-443F-9D4D-6240ADB0A502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17BEF87-FE89-443F-9D4D-6240ADB0A502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F290CB-0287-4CA1-82FC-6A9820086EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F290CB-0287-4CA1-82FC-6A9820086EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F290CB-0287-4CA1-82FC-6A9820086EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F290CB-0287-4CA1-82FC-6A9820086EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24DF5A8-F92A-4679-B146-C2EE32C3EEFE}
+	EndGlobalSection
+EndGlobal
